@@ -78,3 +78,8 @@ Python · [Gradio](https://gradio.app/) · [OpenAI Python SDK](https://github.co
 ## License
 
 MIT — feel free to fork and adapt.
+
+## 🔗 More
+
+- Author: [@pop123-ux](https://github.com/pop123-ux)
+- Medium write-ups: [medium.com/@Pop123](https://medium.com/@Pop123)
